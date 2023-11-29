@@ -1,0 +1,400 @@
+[{
+  "_id": {
+    "$oid": "65670c13d6ce8ebca4eacc9b"
+  },
+  "firstName": "Linea",
+  "lastName": "Ransom",
+  "email": "lransom@gmail.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:01:55.937Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:01:55.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670c32d6ce8ebca4eacc9e"
+  },
+  "firstName": "Beulah",
+  "lastName": "Mullins",
+  "email": "bmullins@gmail.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:02:26.799Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:02:26.799Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670c64d6ce8ebca4eacca2"
+  },
+  "firstName": "Benton",
+  "lastName": "Meiklam",
+  "email": "bmeiklam@yahoo.com",
+  "role": "Super User",
+  "createdAt": {
+    "$date": "2023-11-29T10:03:16.226Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:03:16.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670c80d6ce8ebca4eacca5"
+  },
+  "firstName": "Deirder",
+  "lastName": "Jenner",
+  "email": "djenner@gmail.com",
+  "role": "Super User",
+  "createdAt": {
+    "$date": "2023-11-29T10:03:44.093Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:03:44.093Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670ca3d6ce8ebca4eacca8"
+  },
+  "firstName": "Judy",
+  "lastName": "Leebeter",
+  "email": "jleebeter@gmail.com",
+  "role": "Editor",
+  "createdAt": {
+    "$date": "2023-11-29T10:04:19.939Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:04:19.939Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670cc6d6ce8ebca4eaccab"
+  },
+  "firstName": "Aldis",
+  "lastName": "Alvaro",
+  "email": "aalvaro@email.com",
+  "role": "Admin",
+  "createdAt": {
+    "$date": "2023-11-29T10:04:54.755Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:04:54.755Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670ce5d6ce8ebca4eaccae"
+  },
+  "firstName": "Marcellina",
+  "lastName": "Cotilard",
+  "email": "mcontilard@email.com",
+  "role": "Editor",
+  "createdAt": {
+    "$date": "2023-11-29T10:05:25.205Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:05:25.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670d0ad6ce8ebca4eaccb1"
+  },
+  "firstName": "Vanessa",
+  "lastName": "Pechard",
+  "email": "vpechard7@ebay.co.uk",
+  "role": "Editor",
+  "createdAt": {
+    "$date": "2023-11-29T10:06:02.626Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:06:02.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670d24d6ce8ebca4eaccb4"
+  },
+  "firstName": "Ludwig",
+  "lastName": "Beebis",
+  "email": "lbeebis@email.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:06:28.813Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:06:28.813Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670d3fd6ce8ebca4eaccb7"
+  },
+  "firstName": "Ingrim",
+  "lastName": "Loidl",
+  "email": "iloidl@email.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:06:55.114Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:06:55.114Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670d63d6ce8ebca4eaccba"
+  },
+  "firstName": "Egon",
+  "lastName": "Tebbs",
+  "email": "etebbs@email.com",
+  "role": "Super User",
+  "createdAt": {
+    "$date": "2023-11-29T10:07:31.614Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:07:31.614Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670d7cd6ce8ebca4eaccbd"
+  },
+  "firstName": "Robbi",
+  "lastName": "Demcik",
+  "email": "rdemcik@email.com",
+  "role": "Admin",
+  "createdAt": {
+    "$date": "2023-11-29T10:07:56.968Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:07:56.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670d95d6ce8ebca4eaccc0"
+  },
+  "firstName": "Pavel",
+  "lastName": "Sivills",
+  "email": "psivills@email.com",
+  "role": "Admin",
+  "createdAt": {
+    "$date": "2023-11-29T10:08:21.998Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:08:21.998Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670db8d6ce8ebca4eaccc3"
+  },
+  "firstName": "Anthiathia",
+  "lastName": "Sneddon",
+  "email": "asneddon@email.com",
+  "role": "Admin",
+  "createdAt": {
+    "$date": "2023-11-29T10:08:56.525Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:08:56.525Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670dd5d6ce8ebca4eaccc6"
+  },
+  "firstName": "Zarah",
+  "lastName": "Josilevich",
+  "email": "zjosilevich@email.com",
+  "role": "Editor",
+  "createdAt": {
+    "$date": "2023-11-29T10:09:25.812Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:09:25.812Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670deed6ce8ebca4eaccc9"
+  },
+  "firstName": "Austin",
+  "lastName": "Benny",
+  "email": "abenny@email.com",
+  "role": "Super User",
+  "createdAt": {
+    "$date": "2023-11-29T10:09:50.707Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:09:50.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670e21d6ce8ebca4eacccd"
+  },
+  "firstName": "Marcellina",
+  "lastName": "Holley",
+  "email": "mholley@email.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:10:41.118Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:10:41.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670e3fd6ce8ebca4eaccd0"
+  },
+  "firstName": "Moritz",
+  "lastName": "Goodey",
+  "email": "mgoodey@email.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:11:11.909Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:11:11.909Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670e59d6ce8ebca4eaccd3"
+  },
+  "firstName": "Chaddy",
+  "lastName": "Danson",
+  "email": "cdanson@email.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:11:37.653Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:11:37.653Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670e79d6ce8ebca4eaccd6"
+  },
+  "firstName": "Lee",
+  "lastName": "Picheford",
+  "email": "lpicheford@email.com",
+  "role": "Super User",
+  "createdAt": {
+    "$date": "2023-11-29T10:12:09.696Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:12:09.696Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670e96d6ce8ebca4eaccd9"
+  },
+  "firstName": "Bekki",
+  "lastName": "Robertucci",
+  "email": "brobertucci@email.com",
+  "role": "Editor",
+  "createdAt": {
+    "$date": "2023-11-29T10:12:38.238Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:12:38.238Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670eb8d6ce8ebca4eaccdc"
+  },
+  "firstName": "Logan",
+  "lastName": "Gauche",
+  "email": "lgauche@email.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:13:12.832Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:13:12.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670ee1d6ce8ebca4eaccdf"
+  },
+  "firstName": "Ryun",
+  "lastName": "Durtnell",
+  "email": "rdurtnell@email.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:13:53.886Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:13:53.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670f03d6ce8ebca4eacce2"
+  },
+  "firstName": "Orren",
+  "lastName": "Grisard",
+  "email": "ogrisard@email.com",
+  "role": "User",
+  "createdAt": {
+    "$date": "2023-11-29T10:14:27.574Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:14:27.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670f20d6ce8ebca4eacce5"
+  },
+  "firstName": "Bonnee",
+  "lastName": "Mattacks",
+  "email": "bmattacks@email.com",
+  "role": "Admin",
+  "createdAt": {
+    "$date": "2023-11-29T10:14:56.056Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T10:14:56.056Z"
+  },
+  "__v": 0
+}]

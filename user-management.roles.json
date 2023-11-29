@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6567088dd6ce8ebca4eacc8a"
+  },
+  "name": "User",
+  "description": "Regular User",
+  "createdAt": {
+    "$date": "2023-11-29T09:46:53.703Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T09:46:53.703Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670923d6ce8ebca4eacc8d"
+  },
+  "name": "Super User",
+  "description": "Advanced User",
+  "createdAt": {
+    "$date": "2023-11-29T09:49:23.867Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T09:49:23.867Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656709cdd6ce8ebca4eacc90"
+  },
+  "name": "Admin",
+  "description": "Administrator",
+  "createdAt": {
+    "$date": "2023-11-29T09:52:13.090Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T09:52:13.090Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65670a58d6ce8ebca4eacc93"
+  },
+  "name": "Editor",
+  "description": "Editor",
+  "createdAt": {
+    "$date": "2023-11-29T09:54:32.349Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-29T09:54:32.349Z"
+  },
+  "__v": 0
+}]
